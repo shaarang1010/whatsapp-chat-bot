@@ -13,3 +13,5 @@
 - [Twilio whatsapp business api](https://www.twilio.com/whatsapp)
 
 ### Architecture
+
+![Architecture](https://raw.githubusercontent.com/shaarang1010/whatsapp-chat-bot/main/architecture-wb.drawio.png?token=GHSAT0AAAAAABT6OXJ6CWWNRGW27ORQVWIWYV5SWSA)
