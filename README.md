@@ -14,4 +14,4 @@
 
 ### Architecture
 
-![Architecture](https://raw.githubusercontent.com/shaarang1010/whatsapp-chat-bot/main/architecture-wb.drawio.png?token=GHSAT0AAAAAABT6OXJ6CWWNRGW27ORQVWIWYV5SWSA)
+![Architecture](https://github.com/shaarang1010/whatsapp-chat-bot/blob/main/architecture-wb.drawio.png)
